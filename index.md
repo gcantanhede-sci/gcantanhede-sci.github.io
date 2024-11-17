@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-### Olá, mundo!
+# Olá, mundo!
 
 Sou um Especialista em **Ciência** e **Análise de Dados**, com experiência em **Pesquisa Científica** na área de **Inteligência Artificial** e **Aprendizado de Máquina**.
 
