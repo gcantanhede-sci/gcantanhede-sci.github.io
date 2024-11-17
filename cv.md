@@ -7,15 +7,28 @@ title: CV
 
 {% include contact.html %}
 
-## Section
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Especialidades
+* Análise de Dados
+* Inteligência Artificial / Aprendizado de Máquina
+* Programação Orientada a Objetos & Funcional
+* Python
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+### Experiência
 
-### Subsection
+* Analista de Dados SR @ Grupo Equatorial (Brasil) - Ago/24 até presente
+* Cientista de Dados PL @ Dynaxion Security (Países Baixos) - Jun/22 a Set/22
+* Analista de Dados, Supervisor, Professor Auxiliar @ Eindhoven University of Technology (Países Baixos) - Nov/18 a Set/20
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Educação
+
+* (Incompleto) Ph.D. em Ciência de Dados @ Eindhoven University of Technology (Países Baixos)
+* M.Sc. em Inteligência Artificial @ Universidade de São Paulo (Brasil)
+* B.Sc. em Sistemas de Informação @ Universidade de Ensino Superior Dom Bosco (Brasil)
+
+### Idiomas
+
+* Inglês - Fluente
+* Holandês - Intermediário
+* Espanhol - Básico
+* Português - Nativo
