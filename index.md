@@ -5,9 +5,22 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Olá, mundo!
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+
+I am a researcher interested in problems of organization, strategy, and decision-making, particularly in the context of creative product markets. I am currently Assistant Professor and Ramón y Cajal Fellow at Universidad Carlos III de Madrid.
+
+Sou um Especialista em **Ciência** e **Análise de Dados**, com experiência em **Pesquisa Científica** na área de **Inteligência Artificial** e **Aprendizado de Máquina**.
+Entusiasmado em explorar grandes conjuntos de dados e extrair insights, encontrar formas inovativas de resolver problemas e em fornecer às
+pessoas soluções baseadas em inteligência de dados.
+
+Atualmente sou Analista de Dados SR no [Grupo Equatorial](https://www.equatorialenergia.com.br/home/).
+
+[Clique aqui](cv) para ver meu CV resumido, e [aqui](assets/files/cv.pdf) para baixar a versão completa.
+
+{::comment}
+
+Esse é o meu website, t can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
 
 By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
 
@@ -17,3 +30,4 @@ Below is a list of blog posts included for illustrative purposes. Make sure to d
 
 {% include archive.html %}
 
+{:/comment}
