@@ -1,9 +1,6 @@
 title: Gabriel Cantanhede, M.Sc.
-description: My online CV
-baseurl: ""
+description: Meu CV online
 url: https://gcantanhede-sci.github.io
-
-theme: cvless
 
 # site settings
 taglong: Senior Data Analyst, Pythonista
@@ -15,7 +12,7 @@ author:
   email: g.l.cantanhede.silva@proton.me
 photo: assets/files/photo.jpg
 address: São Luis, MA, Brazil
-phone: +1 234 567 890
+#phone: +1 234 567 890
 
 # social media links
 social:
@@ -24,7 +21,21 @@ social:
 
 # build settings
 permalink: pretty
+
 exclude:
   - docker-compose.yml
+  - Gemfile
   - LICENSE
   - README.md
+  - vendor/
+  - cv.aux
+  - cv.fdb_latexmk
+  - cv.fls
+  - cv.log
+  - cv.out
+  - cv.synctex.gz
+  - cv.tex
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
