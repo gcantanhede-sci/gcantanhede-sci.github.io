@@ -1,9 +1,12 @@
 title: Gabriel Cantanhede, M.Sc.
 description: Meu CV online
+baseurl: ""
 url: https://gcantanhede-sci.github.io
 
+theme: cvless
+
 # site settings
-taglong: Senior Data Analyst, Pythonista
+taglong: Analista de Dados SR, Pythonista
 #tagshort: Sr Data Analyst, Py-man
 
 # author settings
@@ -21,21 +24,7 @@ social:
 
 # build settings
 permalink: pretty
-
 exclude:
   - docker-compose.yml
-  - Gemfile
   - LICENSE
   - README.md
-  - vendor/
-  - cv.aux
-  - cv.fdb_latexmk
-  - cv.fls
-  - cv.log
-  - cv.out
-  - cv.synctex.gz
-  - cv.tex
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
