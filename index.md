@@ -3,14 +3,10 @@ layout: home
 title: Home
 ---
 
-# About
-
 ### Olá, mundo!
 
-
-I am a researcher interested in problems of organization, strategy, and decision-making, particularly in the context of creative product markets. I am currently Assistant Professor and Ramón y Cajal Fellow at Universidad Carlos III de Madrid.
-
 Sou um Especialista em **Ciência** e **Análise de Dados**, com experiência em **Pesquisa Científica** na área de **Inteligência Artificial** e **Aprendizado de Máquina**.
+
 Entusiasmado em explorar grandes conjuntos de dados e extrair insights, encontrar formas inovativas de resolver problemas e em fornecer às
 pessoas soluções baseadas em inteligência de dados.
 
